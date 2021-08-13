@@ -5,7 +5,7 @@ Weather in Australia is becoming unpredictable, parts of the country is currentl
 An accuracy of 0.83 was obtained utilizing Random Forest. 
 
 # Workflow
-1. [Exploratory Data Analysis](Final_Submission/2)
+1. [Exploratory Data Analysis](https://github.com/PrasunaM/Predicting_Rain_Aus-MetisClassification/blob/062563328d883d7d20a22ae291aa0e31d8c56f5f/Final_Submission/2)
 2. [K Nearest Neighbors](Final_Submission/4)
 3. [Logistic Regression](Final_Submission/3)
 4. [Random Forest](Final_Submission/5) 
