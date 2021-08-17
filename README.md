@@ -2,6 +2,10 @@
 
 Weather in Australia is becoming unpredictable, parts of the country is currently facing massive floods from heavy rainfall. Not long ago, there were devastating forest fires in the country. The aim of this project is to make weather more predictable and understand the main indicators of the rain. Data was obtained from [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) which 10 year weather data. 
 
+EDA was performed and pairplot revealed some important features that were seperating the predicting variable.
+
+<img src="Pairplot.png" alt="Pairplot" width="600" height = "400"/> 
+
 An accuracy of 0.85 was obtained utilizing XG Boost. 
 
 # Workflow
